@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/PriorityQueue">
-    <img src="images/logo.png" alt="Logo" width="500" height="400">
+    <img src="https://github.com/senabibi/PriorityQueue/blob/main/maze.png" alt="Logo" width="500" height="400">
   </a>
 
   <h3 align="center">Priority Graph</h3>
@@ -59,7 +59,7 @@
 
 ## About The Project
 
-![Priority Queue Flowchart](None)
+![Priority Queue Flowchart](https://github.com/senabibi/PriorityQueue/blob/main/flowchartt.png)
 
 The Priority Graph project is a Python implementation of a graph data structure with priority functionality. It provides methods for entering a city, listing the k closest cities, finding the shortest path to a destination city, and more. The graph is built using Dijkstra's algorithm, and the menu-driven interface allows users to interact with the graph seamlessly.
 
@@ -101,6 +101,10 @@ Follow these steps to install and run the project:
 
 
 ## Usage
+<div align=center>
+    <img src="https://github.com/senabibi/PriorityQueue/blob/main/uml.png" alt="Priority Queue UML">
+
+</div>
 
 To use the Priority Graph project  and set up your work routine, follow these steps:
 
@@ -234,11 +238,11 @@ The collaborative effort of these skills and resources contributed to the succes
 [issues-url]: https://github.com/senabibi/PriorityQueue/issues
 [license-shield]: https://img.shields.io/github/license/senabibi/PriorityQueue.svg?style=for-the-badge
 
-[license-url]: https://github.com/senabibi/PriorityQueue/blob/master/LICENSE.txt
+[license-url]: https://github.com/senabibi/PriorityQueue/blob/main/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nursena-bitirgen-5743341b9/
-[product-screenshot]: images/logo.png
+[product-screenshot]: https://github.com/senabibi/PriorityQueue/blob/main/flowchartt.png
 
 [Python.py]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://docs.python.org/3/
