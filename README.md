@@ -225,7 +225,6 @@ The collaborative effort of these skills and resources contributed to the succes
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/senabibi/PriorityQueue.svg?style=for-the-badge
-
 [contributors-url]: https://github.com/senabibi/PriorityQueue/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/senabibi/PriorityQueue.svg?style=for-the-badge
 [forks-url]: https://github.com/senabibi/PriorityQueue/network/members
@@ -233,7 +232,6 @@ The collaborative effort of these skills and resources contributed to the succes
 [stars-url]: https://github.com/senabibi/PriorityQueue/stargazers
 [issues-shield]: https://img.shields.io/github/issues/senabibi/PriorityQueue.svg?style=for-the-badge
 [issues-url]: https://github.com/senabibi/PriorityQueue/issues
-
 [license-shield]: https://img.shields.io/github/license/senabibi/PriorityQueue.svg?style=for-the-badge
 
 [license-url]: https://github.com/senabibi/PriorityQueue/blob/master/LICENSE.txt
