@@ -236,6 +236,7 @@ The collaborative effort of these skills and resources contributed to the succes
 [stars-url]: https://github.com/senabibi/PriorityQueue/stargazers
 [issues-shield]: https://img.shields.io/github/issues/senabibi/PriorityQueue.svg?style=for-the-badge
 [issues-url]: https://github.com/senabibi/PriorityQueue/issues
+
 [license-shield]: https://img.shields.io/github/license/senabibi/PriorityQueue.svg?style=for-the-badge
 
 [license-url]: https://github.com/senabibi/PriorityQueue/blob/main/LICENSE
