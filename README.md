@@ -61,7 +61,7 @@
 
 ![Priority Queue Flowchart](https://github.com/senabibi/PriorityQueue/blob/main/flowchartt.png)
 
-The Priority Graph project is a Python implementation of a graph data structure with priority functionality. It provides methods for entering a city, listing the k closest cities, finding the shortest path to a destination city, and more. The graph is built using Dijkstra's algorithm, and the menu-driven interface allows users to interact with the graph seamlessly.
+The Google Map Prototype project is a Python implementation of a graph data structure with priority functionality. It provides methods for entering a city, listing the k closest cities, finding the shortest path to a destination city, and more. The graph is built using Dijkstra's algorithm, and the menu-driven interface allows users to interact with the graph seamlessly.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
