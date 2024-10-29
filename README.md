@@ -14,7 +14,7 @@
     <img src="https://github.com/senabibi/PriorityQueue/blob/main/maze.png" alt="Logo" width="500" height="400">
   </a>
 
-  <h3 align="center">Priority Graph</h3>
+  <h3 align="center">Google Map Prototype</h3>
 
   <p align="center">
     A Python implementation of a graph data structure with priority functionality. The project utilizes Dijkstra's algorithm to find the shortest path and provides a menu-driven interface for users to interact with the graph.
